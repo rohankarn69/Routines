@@ -1,0 +1,32 @@
+{
+    "2nd year": {
+        "core": {
+            "CSE": 59,
+            "IT": 4,
+            "CSSE": 5,
+            "CSCE": 6
+        },
+        "elective":{
+            "CSE":0, 
+            "IT": 0, 
+            "CSSE":0, 
+            "CSCE":0
+        }
+        
+    },
+    "3rd year": {
+        "core": {
+            "CSE": 59,
+            "IT": 4,
+            "CSSE": 5,
+            "CSCE": 6
+        },
+        "elective":{
+            "CSE":1, 
+            "IT": 1, 
+            "CSSE":1, 
+            "CSCE":2
+        }
+        
+    }
+}
