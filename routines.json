@@ -3,7 +3,7 @@
         "CSE": {
             "details": {
                 "core": 55,
-                "elective": 2
+                "elective": 0
             },
             "sub": {
                 "core": {
@@ -618,7 +618,7 @@
         "IT": {
             "details": {
                 "core": 6,
-                "elective": 2
+                "elective": 0
             },
             "sub": {
                 "core": {
@@ -678,7 +678,7 @@
         "CSSE": {
             "details": {
                 "core": 3,
-                "elective": 2
+                "elective": 0
             },
             "sub": {
                 "core": {
@@ -708,7 +708,7 @@
         "CSCE": {
             "details": {
                 "core": 5,
-                "elective": 1
+                "elective": 0
             },
             "sub": {
                 "core": {
